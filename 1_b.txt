@@ -1,0 +1,4 @@
+1.b Github es una plataforma online que permite el alojamiento de repositorios de git.
+Sirve para realizar proyectos colaborativos. Git es un sistema de control de versiones,
+que se utiliza para hacer un seguimiento de los cambios de codigo fuente en un proyecto.
+Git no proporciona ni herramientas ni interfaz, esto sí lo hace github.

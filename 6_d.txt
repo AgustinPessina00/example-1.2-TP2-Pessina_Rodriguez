@@ -1,0 +1,6 @@
+Arm Mbed OS es un sistema operativo integrado de código abierto diseñado específicamente
+para los dispositivos en IoT (Internet de las cosas). Incluye varias herramientas para
+desarrolladores que permiten desarrollar productos con un microcontrolador Arm Cortex-M,
+incluyendo seguridad, conectividad, un RTOS y drivers para sensores I/O.
+
+https://www.mbed.com/en/platform/mbed-os/
